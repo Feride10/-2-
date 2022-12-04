@@ -1,0 +1,15 @@
+C:\Users\Feride\2 семинар\Home.work1\bin\Debug\net6.0\Home.work1.exe
+C:\Users\Feride\2 семинар\Home.work1\bin\Debug\net6.0\Home.work1.deps.json
+C:\Users\Feride\2 семинар\Home.work1\bin\Debug\net6.0\Home.work1.runtimeconfig.json
+C:\Users\Feride\2 семинар\Home.work1\bin\Debug\net6.0\Home.work1.dll
+C:\Users\Feride\2 семинар\Home.work1\bin\Debug\net6.0\Home.work1.pdb
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.csproj.AssemblyReference.cache
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.AssemblyInfoInputs.cache
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.AssemblyInfo.cs
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.csproj.CoreCompileInputs.cache
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.dll
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\refint\Home.work1.dll
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.pdb
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\Home.work1.genruntimeconfig.cache
+C:\Users\Feride\2 семинар\Home.work1\obj\Debug\net6.0\ref\Home.work1.dll
